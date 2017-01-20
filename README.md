@@ -1,0 +1,2 @@
+# lcslider
+The basic flexslider
